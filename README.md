@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GitFitAnirban
-- 👀 I’m interested in the application of Data Science in Healthcare, Fitness, Finance and Automotive industries
-- 🌱 I’m currently learning intermediate Python skills for Data Science
-- 💞️ I’m looking to collaborate on Data Science projects of interest 
-- 📫 How to reach me - email me at anirbanopes@gmail.com
+- 👀 I’m interested in the application of Software Engineering and Data Science in Healthcare, Fitness, Finance and Automotive industries
+- 🌱 Constantly staying on cuttin edge of advancements in C#, .NET, Javascript, React, Azure and Microservices  
+- 💞️ I’m looking to collaborate on projects of matching interest or job opportunities in the space
+- 📫 How to reach me - email me at anirban.mook@gmail.com
 
 <!---
 GitFitAnirban/GitFitAnirban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
